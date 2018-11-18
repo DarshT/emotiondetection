@@ -63,4 +63,4 @@ for file_ in allFiles:
             csvFile.close()
             break;
 
-print(Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral, count, sep="\n")
+# print(Anger, Disgust, Fear, Happy, Sad, Surprise, Neutral, count, sep="\n")
